@@ -13,7 +13,7 @@ function About() {
             I'm Jay Patel, a 18-year-old Graphic Designer with a strong passion
             for UI/UX design and video editing. With 2 years of experience
             designing social media posts, posters, and banners, I started my
-            design journey at age 13. I specialize in creating user-friendly
+            design journey at age 16. I specialize in creating user-friendly
             interfaces and seamless experiences as a UI/UX designer, and I bring
             creativity and precision to my video editing projects.
           </p>
