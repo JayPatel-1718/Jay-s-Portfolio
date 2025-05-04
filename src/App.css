@@ -150,8 +150,7 @@
   height: 55px;
   border-radius: 50%;
   border: 2px solid rgba(255, 111, 97, 0.2);
-  background: url("https://via.placeholder.com/150") no-repeat center
-    center/cover;
+  background: url("my-profile.jpg") no-repeat center center/cover;
   transition: transform 0.5s ease, box-shadow 0.5s ease;
 }
 
