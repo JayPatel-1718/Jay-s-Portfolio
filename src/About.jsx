@@ -10,12 +10,12 @@ function About() {
         <div className="about-content">
           <h1 className="about-title">About Me</h1>
           <p className="about-text">
-            I'm Jay Patel, a passionate UI/UX and Graphic Designer with over 2
-            years of experience in creating intuitive, visually stunning
-            designs. Based in Mumbai, I specialize in crafting seamless user
-            experiences and vibrant visuals that resonate with audiences. My
-            work blends creativity with functionality, and I'm always eager to
-            collaborate on exciting projects.
+            I'm Jay Patel, a 18-year-old Graphic Designer with a strong passion
+            for UI/UX design and video editing. With 2 years of experience
+            designing social media posts, posters, and banners, I started my
+            design journey at age 13. I specialize in creating user-friendly
+            interfaces and seamless experiences as a UI/UX designer, and I bring
+            creativity and precision to my video editing projects.
           </p>
         </div>
 
@@ -25,17 +25,17 @@ function About() {
             <div className="timeline-entry">
               <div className="timeline-content">
                 <span className="timeline-marker"></span>
-                <span className="timeline-date">2020 - 2023</span>
-                <h3>Bachelor of Design</h3>
-                <p>MIT Institute of Design, Pune</p>
+                <span className="timeline-date">2022</span>
+                <h3>SSC with Distinction</h3>
+                <p>Cardinal Gracious High School</p>
               </div>
             </div>
             <div className="timeline-entry">
               <div className="timeline-content">
                 <span className="timeline-marker"></span>
-                <span className="timeline-date">2019 - 2020</span>
-                <h3>Diploma in Graphic Design</h3>
-                <p>Arena Animation, Mumbai</p>
+                <span className="timeline-date">2022 - Present</span>
+                <h3>Diploma in Computer Engineering</h3>
+                <p>Shri Bhagubhai Maratali Polytechnic</p>
               </div>
             </div>
           </div>
@@ -45,17 +45,17 @@ function About() {
             <div className="timeline-entry">
               <div className="timeline-content">
                 <span className="timeline-marker"></span>
-                <span className="timeline-date">2023 - Present</span>
-                <h3>UI/UX Designer</h3>
-                <p>Freelance, Mumbai</p>
+                <span className="timeline-date">2024</span>
+                <h3>Graphic Designer (Intern)</h3>
+                <p>Happetive</p>
               </div>
             </div>
             <div className="timeline-entry">
               <div className="timeline-content">
                 <span className="timeline-marker"></span>
-                <span className="timeline-date">2021 - 2022</span>
-                <h3>Junior Graphic Designer</h3>
-                <p>Creative Studio, Mumbai</p>
+                <span className="timeline-date">2024</span>
+                <h3>Design Team</h3>
+                <p>Spectrum, College Events</p>
               </div>
             </div>
           </div>
@@ -69,8 +69,8 @@ function About() {
             </div>
             <div className="skill-back">
               <p>
-                Designing intuitive interfaces with Figma and Adobe XD, focusing
-                on user-centric solutions.
+                Designing user-friendly interfaces with Figma and Adobe XD,
+                focusing on seamless experiences.
               </p>
             </div>
           </div>
@@ -81,8 +81,8 @@ function About() {
             </div>
             <div className="skill-back">
               <p>
-                Crafting vibrant visuals using Adobe Photoshop and Illustrator
-                for brands and campaigns.
+                Creating social media posts, posters, and banners using Adobe
+                Photoshop and Illustrator.
               </p>
             </div>
           </div>
@@ -93,7 +93,7 @@ function About() {
             </div>
             <div className="skill-back">
               <p>
-                Producing dynamic videos with Adobe Premiere Pro and After
+                Producing creative videos with Adobe Premiere Pro and After
                 Effects for engaging content.
               </p>
             </div>

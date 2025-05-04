@@ -13,10 +13,22 @@ function Home() {
   const [selectedProject, setSelectedProject] = useState(null);
 
   const projects = [
-    { title: "Moving Out UI Design", link: "https://example.com/moving-out" },
-    { title: "SheVentures UI Design", link: "https://example.com/sheventures" },
-    { title: "BuiDConnect UI Design", link: "https://example.com/buidconnect" },
-    { title: "StageScout UI Design", link: "https://example.com/stagescout" },
+    {
+      title: "Moving Out UI Design",
+      link: "https://www.figma.com/proto/8tFzmhn8cjwW11XCuMEITV/Fusion-Frames-P3-Team-Pixel-Fusion?node-id=0-1&p=f&t=fYEvTO6lOB8GtDyJ-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A404",
+    },
+    {
+      title: "SheVentures UI Design",
+      link: "https://www.figma.com/proto/rMsF8JPF3JDLFf6znGkZtZ/SheVentures?node-id=22-386&t=Hl87GmMI7feNYkVv-0&scaling=min-zoom&content-scaling=fixed&page-id=5%3A155",
+    },
+    {
+      title: "BuidConnect UI Design",
+      link: "https://www.figma.com/proto/jGZ1Qp7GgbM8948smipB99/Team-Pixel-Fusion?node-id=16-463&p=f&t=aIei7MpAud1qa4Wz-1&scaling=min-zoom&content-scaling=fixed&page-id=9%3A826&starting-point-node-id=16%3A463&show-proto-sidebar=1",
+    },
+    {
+      title: "StageScout UI Design",
+      link: "https://www.figma.com/proto/3UE40Mn7H8Gl6gpfypOshJ/StageScout--UI-Website-?node-id=5-17&t=sHnccI37oEPVl5hV-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2",
+    },
   ];
 
   const handleProjectClick = (project) => {
